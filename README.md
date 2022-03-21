@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThatGuyDestiny
+- 👀 I’m interested in coding and game development
+- 🌱 I’m currently learning C#
+- 📫 How to reach me;
+- https://twitter.com/ThatGuyDestiny
